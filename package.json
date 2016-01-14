@@ -1,7 +1,7 @@
 {
   "name": "atom-material-contrast-syntax",
   "theme": "syntax",
-  "version": "0.2.10",
+  "version": "0.1.0",
   "description": "A darker syntax theme for Atom that uses Google's Material Design color palette",
   "keywords": [
     "syntax",
@@ -11,22 +11,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silvestreh/atom-material-syntax.git"
+    "url": "git+https://github.com/mdahiemstra/atom-material-contrast-syntax.git"
   },
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "readme": "![](http://i.imgur.com/f58FC9u.png)\n---\n\nA syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).\n\n![screenshot](https://cloud.githubusercontent.com/assets/499192/11417210/2ff7e544-9415-11e5-8c82-4ba4609eeb7e.png)\n",
+  "readme": "![](http://i.imgur.com/f58FC9u.png)\n---\n\n\nA syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Inspired by Silvestreh's [atom-material-syntax](https://atom.io/themes/atom-material-syntax) -> Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).\n\n![screenshot](http://i.imgur.com/hWSg1ag.png)\n",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/silvestreh/atom-material-syntax/issues"
+    "url": "https://github.com/mdahiemstra/atom-material-contrast-syntaxissues"
   },
-  "homepage": "https://github.com/silvestreh/atom-material-syntax#readme",
-  "_id": "atom-material-syntax@0.2.10",
-  "_shasum": "69eeb553c1606a799b98baf895a0a4c86edbcea9",
-  "_resolved": "file:../d-116014-15180-1gx17dv/package.tgz",
-  "_from": "../d-116014-15180-1gx17dv/package.tgz",
+  "homepage": "https://github.com/mdahiemstra/atom-material-contrast-syntax#readme",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
